@@ -1,8 +1,18 @@
 # 🎓 Parcial ADA · Entrenador para el Primer Parcial de Análisis de Algoritmos
 
+![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-vanilla-F7DF1E?logo=javascript&logoColor=black)
+![KaTeX](https://img.shields.io/badge/KaTeX-f%C3%B3rmulas-329894)
+![Offline](https://img.shields.io/badge/100%25-offline-success)
+
 > Minijuego web **100 % offline** para practicar el cálculo de **T(n)**, **Big-O**, **Ω** y el diseño de algoritmos con la **convención de conteo del profesor** (UFPS · Ingeniería de Sistemas), basado en el *Simulacro Previo 1* y la *Hoja 1 de ejercicios*.
 >
 > Todo se aprende **haciendo**: cada pantalla te pide una respuesta, la evalúa al instante y, si fallas, te muestra la solución **paso a paso sin saltarse nada**.
+
+<p align="center">
+  <img src="docs/captura.png" alt="Menú principal con las 7 fases" width="800">
+</p>
 
 ---
 
@@ -137,7 +147,7 @@ Si algo no cuadra, el script falla e indica ejercicio, línea y n. Si todo pasa,
 ## 🗂️ Estructura del proyecto
 
 ```
-parcial-ada/
+parcial-ada-analisis/
 ├── index.html          ← abre esto
 ├── chuleta.html        ← chuleta imprimible (1 página)
 ├── contenido.md        ← mapa del parcial: convención, fórmulas, trampas, banco clasificado
@@ -171,3 +181,7 @@ parcial-ada/
 3. **Mañana del parcial:** Ronda de teoría (5 min) → Repaso rápido de 20 min → leer la chuleta una vez.
 
 Las cuatro cosas que más puntos dan en la rúbrica del profesor: **costo al frente de cada línea**, **vueltas de cada ciclo con la sumatoria explícita**, el **+1 de la condición falsa** y el **Big-O justificado en una frase**. Suerte con el 5.0. 🍀
+
+---
+
+Hecho por **David Camilo Colmenares**, estudiante de Ingeniería de Sistemas en la UFPS. [GitHub](https://github.com/Camilo0812A)
