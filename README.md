@@ -14,6 +14,8 @@
   <img src="docs/captura.png" alt="Menú principal con las 7 fases" width="800">
 </p>
 
+**Demo en vivo, sin instalar nada:** https://camilo0812a.github.io/parcial-ada-analisis/
+
 ---
 
 ## 🚀 Cómo empezar
