@@ -10,6 +10,8 @@
 >
 > Todo se aprende **haciendo**: cada pantalla te pide una respuesta, la evalúa al instante y, si fallas, te muestra la solución **paso a paso sin saltarse nada**.
 
+**Nota:** este proyecto lo hice con IA, lo arme para estudiar para el primer previo de Analisis de Algoritmos.
+
 <p align="center">
   <img src="docs/captura.png" alt="Menú principal con las 7 fases" width="800">
 </p>
