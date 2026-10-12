@@ -155,10 +155,9 @@ parcial-ada/
 │   ├── examen.js       ← Fase 6 (cronómetro, soluciones, rúbrica)
 │   ├── repaso.js       ← Fase 7 (plan de 20 min por errores)
 │   └── app.js          ← menú y cabecera
-├── data/
-│   ├── f1.js … f6.js   ← ejercicios (con su código instrumentado)
-│   └── _verificado.js  ← sello generado por verificar.js
-└── material/           ← simulacro, Hoja 1, plantilla Excel, hojas resumen
+└── data/
+    ├── f1.js … f6.js   ← ejercicios (con su código instrumentado)
+    └── _verificado.js  ← sello generado por verificar.js
 ```
 
 > Los ejercicios están en archivos `.js` en lugar de `.json` porque al abrir con doble clic el navegador bloquea la lectura de JSON, y porque cada ejercicio incluye su función instrumentada (código, no solo datos).
