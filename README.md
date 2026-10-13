@@ -22,7 +22,7 @@
 
 ## 🚀 Cómo empezar
 
-1. Haz **doble clic en `index.html`**. No necesita internet, servidor ni instalación (KaTeX viene incluido en `lib/`).
+1. Abre la [demo en vivo](https://camilo0812a.github.io/parcial-ada-analisis/) o, si lo descargaste, haz **doble clic en `index.html`**. No necesita internet, servidor ni instalación (KaTeX viene incluido en `lib/`).
 2. Elige una fase en el menú. Tu progreso (puntajes, errores frecuentes, racha) se guarda solo en tu navegador (`localStorage`).
 3. Sigue el orden recomendado: **1 → 2 → 3 → 6 → 4 → 5 → 7**.
 
